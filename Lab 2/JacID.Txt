@@ -1,0 +1,7 @@
+ ---------------- Bus -------------------     ---- Jacobian ---
+ Number   Name     Type  Voltage   Angle(Deg)    P-Row//Angle-Column     Q/V-Row//Voltage-Column
+     1    Bus 1 Slack  1.0100    -0.00           1          6
+     2    Bus 2  PQ    0.9819    -7.70           2          7
+     3    Bus 3  PV    1.0000    -7.71           3          8
+     4    Bus 4  PQ    0.9901    -7.09           4          9
+     5    Bus 5  PQ    0.9530   -12.78           5         10
